@@ -1,110 +1,184 @@
 {
-    "basics": {
-      "name": "Lautaro Nicolas Tintez",
-      "label": "Full Stack Developer",
-      "image": "",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
-      "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "A4400",
-        "city": "Salta Capital",
-        "countryCode": "AR",
-        "region": "Salta"
-      },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+  "basics": {
+    "name": "Lautaro Nicolas Tintez",
+    "label": "Full Stack Developer",
+    "image": "/profile-photo.webp",
+    "email": "lautarotintez@gmail.com",
+    "phone": "+54 9 387 5742665",
+    "url": "",
+    "summary": "Recién graduado como Técnico en Análisis de Sistemas, destaco por mi capacidad para abordar desafíos complejos y buscar soluciones eficientes. Mi enfoque está en consolidarme como programador full-stack y analista funcional, contribuyendo activamente en el proceso de desarrollo de software. Estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico.",
+    "location": {
+      "address": "",
+      "postalCode": "4400",
+      "city": "Salta Capital",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "lautarotintez",
+        "url": "https://linkedin.com/in/lautarotintez"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/LautaroTnz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Programador Full Stack Java",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023-12-22",
+      "endDate": null,
+      "summary": "Programador Full stack Java | Angular, desarrollo de aplicaciones web, mantenimiento de sistemas."
+    }
+  ],
+  "education": [{
+    "institution": "Instituto Superior del Milagro N°8207",
+    "url": "https://institutodelmilagro.com/",
+    "area": "Técnico Superior en Análisis de Sistemas",
+    "studyType": "Nivel Superior",
+    "startDate": "2022-03-14",
+    "endDate": "2023-12-21",
+    "score": "8.5"
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "Desarrollo Web", "Frontend"
       ]
-    }],
-    "languages": [{
-      "language": "English",
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "SASS",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Angular",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+        "POO", "Lenguaje de programación", "Backend"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "keywords": [
+        "Framework Java", "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Base de datos", "SQL"
+      ]
+    },
+    {
+      "name": "GIT",
+      "keywords": [
+        "Repositorio de código", "Versionado", "Control de versiones"
+      ]
+    },
+    {
+      "name": "Github",
+      "keywords": [
+        "Repositorio de código", "Versionado", "Control de versiones"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "keywords": [
+        "Repositorio de código", "Versionado", "Control de versiones"
+      ]
+    },
+    {
+      "name": "SonarQube",
+      "keywords": [
+        "Análisis de código", "Calidad de código"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
       "fluency": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Instituto Superior del Milagro",
+      "isActive": true,
+      "description": "Landing page institucional para el Instituto Superior del Milagro N°8207 - Proyecto final de la materia Desarrollo web.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "HTML",
+        "SASS",
+        "Bootstrap"
       ],
-      "url": "https://project.com/"
-    }]
-  }
+      "url": "https://project-isdem.vercel.app/"
+    },
+    {
+      "name": "Task-App",
+      "isActive": true,
+      "description": "Aplicación web y movil para la gestión de tareas, con autenticación de usuarios y base de datos.",
+      "highlights": [
+        "Ionic Framework",
+        "Angular",
+        "SASS",
+        "Typescript",
+        "Firebase"
+      ],
+      "url": "https://github.com/LautaroTnz/AppTareas-Ionic"
+    },
+    {
+      "name": "Sistema de gestión de inventario",
+      "isActive": true,
+      "description": "Aplicación web para gestionar el inventario y el stock de un negocio, con autenticación de usuarios y base de datos.",
+      "highlights": [
+        "Angular",
+        "Java",
+        "Spring Boot",
+        "Typescript",
+        "Mysql"
+      ],
+      "url": "https://gitlab.com/l.tnz/inventarios-frontend.git"
+    }
+  ]
+}
