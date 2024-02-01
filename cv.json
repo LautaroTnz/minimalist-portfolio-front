@@ -90,6 +90,12 @@
       ]
     },
     {
+      "name": "Astro",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
       "name": "Java",
       "keywords": [
         "POO", "Lenguaje de programación", "Backend"
