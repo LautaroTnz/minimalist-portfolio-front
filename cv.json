@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Lautaro Nicolas Tintez",
-    "label": "Full Stack Developer",
+    "label": "Backend Developer",
     "image": "/profile-photo.webp",
     "email": "lautarotintez@gmail.com",
     "phone": "+54 9 387 5742665",
     "url": "",
-    "summary": "Recién graduado como Técnico en Análisis de Sistemas, destaco por mi capacidad para abordar desafíos complejos y buscar soluciones eficientes. Mi enfoque está en consolidarme como programador full-stack y analista funcional, contribuyendo activamente en el proceso de desarrollo de software. Estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico.",
+    "summary": "Recién graduado como Técnico en Análisis de Sistemas, destaco por mi capacidad para abordar desafíos complejos y buscar soluciones eficientes. Mi enfoque está en consolidarme como programador backend y analista funcional, contribuyendo activamente en el proceso de desarrollo de software. Estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico.",
     "location": {
       "address": "",
       "postalCode": "4400",
@@ -31,7 +31,6 @@
     {
       "name": "Freelance",
       "position": "Programador Full Stack Java",
-      "url": "https://twitch.tv/midudev",
       "startDate": "2023-12-22",
       "endDate": null,
       "summary": "Programador Full stack Java | Angular, desarrollo de aplicaciones web, mantenimiento de sistemas."
@@ -85,12 +84,6 @@
     },
     {
       "name": "Angular",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Astro",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -184,7 +177,7 @@
         "Typescript",
         "Mysql"
       ],
-      "url": "https://gitlab.com/l.tnz/inventarios-frontend.git"
+      "url": "https://linktr.ee/lautaroTintez07"
     }
   ]
 }
