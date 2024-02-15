@@ -6,7 +6,7 @@
     "email": "lautarotintez@gmail.com",
     "phone": "+54 9 387 5742665",
     "url": "",
-    "summary": "Recién graduado como Técnico en Análisis de Sistemas, destaco por mi capacidad para abordar desafíos complejos y buscar soluciones eficientes. Mi enfoque está en consolidarme como programador backend y analista funcional, contribuyendo activamente en el proceso de desarrollo de software. Estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico.",
+    "summary": "Recién graduado como Técnico en Análisis de Sistemas, destaco por mi capacidad para abordar desafíos complejos y buscar soluciones eficientes. Mi enfoque está en consolidarme como programador backend, contribuyendo activamente en el proceso de desarrollo de software. Estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico.",
     "location": {
       "address": "",
       "postalCode": "4400",
@@ -24,11 +24,11 @@
   },
   "work": [
     {
-      "name": "Freelance",
-      "position": "Programador Full Stack Java",
-      "startDate": "2023-12-22",
+      "name": "",
+      "position": "",
+      "startDate": "",
       "endDate": null,
-      "summary": "Programador Full stack Java | Angular, desarrollo de aplicaciones web, mantenimiento de sistemas."
+      "summary": ""
     }
   ],
   "education": [{
