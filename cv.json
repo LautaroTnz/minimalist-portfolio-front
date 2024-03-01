@@ -6,7 +6,9 @@
     "email": "lautarotintez@gmail.com",
     "phone": "+54 9 387 5742665",
     "url": "",
-    "summary": "Recién graduado como Técnico en Análisis de Sistemas, destaco por mi capacidad para abordar desafíos complejos y buscar soluciones eficientes. Mi enfoque está en consolidarme como programador backend, contribuyendo activamente en el proceso de desarrollo de software. Estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico.",
+    "summary": "Desarrollador Backend en formación, con experiencia inicial en el desarrollo de aplicaciones web. Recientemente me gradué como Técnico en Análisis de Sistemas, y estoy dando mis primeros pasos en la industria tecnológica.",
+    "summary2": "Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Aunque estoy en las primeras etapas de mi carrera, mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.",
+    "summary3": "Valorando la colaboración y el aprendizaje continuo, estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico. Mi objetivo es consolidarme como un profesional en el desarrollo de software, contribuyendo de manera activa y comprometida en equipos de IT.",
     "location": {
       "address": "",
       "postalCode": "4400",
@@ -19,6 +21,11 @@
         "network": "LinkedIn",
         "username": "lautarotintez",
         "url": "https://linkedin.com/in/lautarotintez"
+      },
+      {
+        "network": "GitHub",
+        "username": "LautaroTnz",
+        "url": "https://github.com/LautaroTnz"
       }
     ]
   },
@@ -118,6 +125,15 @@
       "keywords": [
         "Repositorio de código", "Versionado", "Control de versiones"
       ]
+    },
+    {
+      "name": "AWS",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Docker"
     },
     {
       "name": "SonarQube",
