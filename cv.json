@@ -127,15 +127,6 @@
       ]
     },
     {
-      "name": "AWS",
-      "keywords": [
-        
-      ]
-    },
-    {
-      "name": "Docker"
-    },
-    {
       "name": "SonarQube",
       "keywords": [
         "Análisis de código", "Calidad de código"
