@@ -171,7 +171,7 @@
     {
       "name": "Sistema de gestión de inventario",
       "isActive": true,
-      "description": "Aplicación web para gestionar el inventario y el stock de un negocio, con autenticación de usuarios y base de datos.",
+      "description": "Aplicación web para gestionar el inventario y el stock de un negocio.",
       "highlights": [
         "Angular",
         "Java",
@@ -179,7 +179,7 @@
         "Typescript",
         "Mysql"
       ],
-      "url": "https://linktr.ee/lautaroTintez07"
+      "url": "https://inventarios-frontend.vercel.app/"
     }
   ]
 }
