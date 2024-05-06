@@ -164,7 +164,7 @@
     {
       "name": "MyDoctorApp",
       "isActive": true,
-      "description": "My Doctor App es una solución innovadora para gestionar citas médicas de manera sencilla y personalizada. Desde reservar citas hasta administrar recetas, nuestra plataforma conecta a pacientes con médicos en diversas especialidades. Para médicos, proporcionamos una herramienta centralizada para gestionar agendas, acceder a registros de pacientes y crear recetas digitales de forma eficiente.",
+      "description": "My Doctor App es una solución innovadora para gestionar citas médicas de manera sencilla y personalizada. Desde reservar citas hasta administrar recetas, nuestra plataforma conecta a pacientes con médicos en diversas especialidades.",
       "highlights": [
         "React",
         "Javascript",
