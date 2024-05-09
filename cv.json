@@ -55,30 +55,6 @@
   }],
   "skills": [
     {
-      "name": "HTML",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "SASS",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
       "name": "TypeScript",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
@@ -98,6 +74,12 @@
     },
     {
       "name": "Spring Boot",
+      "keywords": [
+        "Framework Java", "Backend"
+      ]
+    },
+     {
+      "name": "Spring Security",
       "keywords": [
         "Framework Java", "Backend"
       ]
