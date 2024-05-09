@@ -54,16 +54,16 @@
     "url": "https://certificate.com"
   }],
   "skills": [
+     {
+      "name": "Angular",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
     {
       "name": "TypeScript",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Angular",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
