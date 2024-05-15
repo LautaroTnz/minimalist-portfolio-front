@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Lautaro Nicolas Tintez",
-    "label": "Desarrollador Fullstack",
+    "label": "Desarrollador Backend",
     "image": "/profile-photo.webp",
     "email": "lautarotintez@gmail.com",
     "phone": "+54 9 387 5742665",
     "url": "",
-    "summary": "✨ Desarrollador fullstack en formación, con experiencia inicial en el desarrollo de aplicaciones web. Recientemente me gradué como Técnico en Análisis de Sistemas, y estoy dando mis primeros pasos en la industria tecnológica.",
+    "summary": "✨ Desarrollador backend en formación, con experiencia inicial en el desarrollo de aplicaciones web. Recientemente me gradué como Técnico en Análisis de Sistemas, y estoy dando mis primeros pasos en la industria tecnológica.",
     "summary2": "📈 Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Aunque estoy en las primeras etapas de mi carrera, mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.",
     "summary3": "🤝 Valorando la colaboración y el aprendizaje continuo, estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico. Mi objetivo es consolidarme como un profesional en el desarrollo de software, contribuyendo de manera activa y comprometida en equipos de IT.",
     "location": {
@@ -54,18 +54,6 @@
     "url": "https://certificate.com"
   }],
   "skills": [
-     {
-      "name": "Angular",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
     {
       "name": "Java",
       "keywords": [
@@ -100,18 +88,6 @@
       "name": "Github",
       "keywords": [
         "Repositorio de código", "Versionado", "Control de versiones"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "keywords": [
-        "Repositorio de código", "Versionado", "Control de versiones"
-      ]
-    },
-    {
-      "name": "SonarQube",
-      "keywords": [
-        "Análisis de código", "Calidad de código"
       ]
     },
     {
