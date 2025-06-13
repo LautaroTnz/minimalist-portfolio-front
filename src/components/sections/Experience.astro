@@ -1,6 +1,5 @@
 ---
 import Section from "../Section.astro";
-
 import { work } from "@cv";
 ---
 
@@ -8,10 +7,13 @@ import { work } from "@cv";
   <ul>
     {
       work.map(({ name, startDate, endDate, position, summary }) => {
-        const startYear = new Date(startDate).getFullYear();
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual";
-        const years = `${startYear} - ${endYear}`;
+        const start = new Date(startDate);
+        const end = endDate != null ? new Date(endDate) : null;
+        const startLabel = `${start.toLocaleString('es-ES', { month: 'long' }).replace(/^./, m => m.toUpperCase())} ${start.getFullYear()}`;
+        const endLabel = end
+          ? `${end.toLocaleString('es-ES', { month: 'long' }).replace(/^./, m => m.toUpperCase())} ${end.getFullYear()}`
+          : "Actualidad";
+        const years = `${startLabel} - ${endLabel}`;
 
         return (
           <li>
@@ -57,7 +59,7 @@ import { work } from "@cv";
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
   }
 
   time {
