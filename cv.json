@@ -6,9 +6,7 @@
     "email": "lautarotintez@gmail.com",
     "phone": "+54 9 387 5742665",
     "url": "",
-    "summary": "✨ Desarrollador backend en formación, con experiencia inicial en el desarrollo de aplicaciones web. Recientemente me gradué como Técnico en Análisis de Sistemas, y estoy dando mis primeros pasos en la industria tecnológica.",
-    "summary2": "📈 Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Aunque estoy en las primeras etapas de mi carrera, mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.",
-    "summary3": "🤝 Valorando la colaboración y el aprendizaje continuo, estoy en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos en un entorno dinámico. Mi objetivo es consolidarme como un profesional en el desarrollo de software, contribuyendo de manera activa y comprometida en equipos de IT.",
+    "summary": "📈 Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.",
     "location": {
       "address": "",
       "postalCode": "4400",
@@ -31,11 +29,11 @@
   },
   "work": [
     {
-      "name": "",
-      "position": "",
-      "startDate": "",
+      "name": "Asap Consulting S.A",
+      "position": "Desarrollador Backend",
+      "startDate": "07/01/2024",
       "endDate": null,
-      "summary": ""
+      "summary": "Como desarrollador backend, me especializo en la integración y desarrollo de APIs. He participado en migraciones tecnológicas relacionadas con .NET y Entity Framework, incluyendo la actualización de controladores y procedimientos almacenados a .NET 8. Además, he desarrollado aplicaciones desde cero utilizando Java 21, Spring Boot, JPA y SQL Server, y colaboro en decisiones funcionales sobre el diseño y evolución de las soluciones."
     }
   ],
   "education": [{
@@ -67,7 +65,19 @@
       ]
     },
      {
-      "name": "Spring Security",
+      "name": "Spring Cloud",
+      "keywords": [
+        "Framework Java", "Backend"
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+        "POO", "Lenguaje de programación", "Backend"
+      ]
+    },
+    {
+      "name": ".NET 8",
       "keywords": [
         "Framework Java", "Backend"
       ]
@@ -79,15 +89,15 @@
       ]
     },
     {
-      "name": "GIT",
+      "name": "SQL Server",
       "keywords": [
-        "Repositorio de código", "Versionado", "Control de versiones"
+        "Base de datos", "SQL"
       ]
     },
     {
-      "name": "Github",
+      "name": "AWS",
       "keywords": [
-        "Repositorio de código", "Versionado", "Control de versiones"
+        "Cloud"
       ]
     },
     {
